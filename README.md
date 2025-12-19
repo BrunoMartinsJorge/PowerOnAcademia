@@ -8,7 +8,7 @@
 
 Sistema de **gestão acadêmica para uma academia**, desenvolvido em **Python com Flask**, utilizando o conceito de **arquivos indexados** e **árvore binária em memória** para simular um banco de dados simples e eficiente.
 
-O projeto foi desenvolvido em **dupla**, com foco no aprendizado de **estruturas de dados**, **persistência em arquivos**, **organização de sistemas** e **boas práticas de programação**, sem o uso de ferramentas de geração automática de código.
+O projeto foi desenvolvido em **dupla** com @ViNogueira, com foco no aprendizado de **estruturas de dados**, **persistência em arquivos**, **organização de sistemas** e **boas práticas de programação**, sem o uso de ferramentas de geração automática de código.
 
 ---
 
